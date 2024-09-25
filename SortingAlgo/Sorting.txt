@@ -1,0 +1,26 @@
+Types of sorting algorithm
+
+1) Bubble
+2) Insertion sort
+3) Selection sort
+4) Heap sort
+5) Merge sort
+6) Quck sort
+7) Tree sort
+8) Sheel sort    
+
+The above algorithms are called as Comparison algorithms.They sort the elements by comparing with other elements
+Time complexity of these algorithms :
+1, 2, 3 :- O(n^2)
+
+4,5,6,7 :- O(nlogn) 
+
+Shell sort - O(n^3/2) 
+
+
+
+
+// Index based sorts 
+9) Count sort
+10)Bucket/bin sort
+11)Radix sort

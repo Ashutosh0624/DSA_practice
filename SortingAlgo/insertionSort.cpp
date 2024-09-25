@@ -3,6 +3,7 @@
 using namespace std;
 vector<int> insertion_sort(vector<int>&vec){
     for(int i = 1; i<vec.size(); i++){
+        // the outer loop is for repeating the pass/iteration
         int j = i;
         while(j>0 && vec[j-1] > vec[j]){
             swap(vec[j-1], vec[j]);
