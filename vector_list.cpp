@@ -16,7 +16,7 @@ public:
     ~guest() {}
     
     void set_gender(string in){
-        char i = in.c_str()[0];
+        char i = in[0];
         if(i=='b' || i=='B' || i=='m' || i=='M')
             gender="Boy";
         else
