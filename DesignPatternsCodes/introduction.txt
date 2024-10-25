@@ -1,1 +1,0 @@
-This folder has implementation of the software design patterns used in development environment. 
