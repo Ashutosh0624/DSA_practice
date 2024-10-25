@@ -1,0 +1,166 @@
+Common Problems to practice 
+
+
+1. Two Sum
+
+42. Trapping Rain Water
+
+3. Longest Substring Without Repeating Characters
+
+4. Median of Two Sorted Arrays
+
+20. Valid Parentheses
+
+49. Group Anagrams
+
+146. LRU Cache
+
+9. Palindrome Number
+
+33. Search in Rotated Sorted Array
+
+88. Merge Sorted Array
+
+151. Reverse Words in a String
+
+215. Kth Largest Element in an Array
+
+1757. Recyclable and Low Fat Products
+
+2. Add Two Numbers
+
+5. Longest Palindromic Substring
+
+8. String to Integer (atoi)
+
+17. Letter Combinations of a Phone Number
+
+22. Generate Parentheses
+
+23. Merge k Sorted Lists
+
+31. Next Permutation
+
+48. Rotate Image
+
+50. Pow(x, n)
+
+56. Merge Intervals
+
+105. Construct Binary Tree from Preorder and Inorder Traversal
+
+128. Longest Consecutive Sequence
+
+200. Number of Islands
+
+217. Contains Duplicate
+
+380. Insert Delete GetRandom O(1)
+
+650. 2 Keys Keyboard
+
+1768. Merge Strings Alternately
+
+2235. Add Two Integers
+
+7. Reverse Integer
+
+15. 3Sum
+
+19. Remove Nth Node From End of List
+
+21. Merge Two Sorted Lists
+
+24. Swap Nodes in Pairs
+
+25. Reverse Nodes in k-Group
+
+29. Divide Two Integers
+
+35. Search Insert Position
+
+36. Valid Sudoku
+
+37. Sudoku Solver
+
+51. N-Queens
+
+53. Maximum Subarray
+
+55. Jump Game
+
+64. Minimum Path Sum
+
+70. Climbing Stairs
+
+79. Word Search
+
+80. Remove Duplicates from Sorted Array II
+
+92. Reverse Linked List II
+
+127. Word Ladder
+
+152. Maximum Product Subarray
+
+153. Find Minimum in Rotated Sorted Array
+
+165. Compare Version Numbers
+
+202. Happy Number
+
+223. Rectangle Area
+
+235. Lowest Common Ancestor of a Binary Search Tree
+
+238. Product of Array Except Self
+
+253. Meeting Rooms II
+
+264. Ugly Number II
+
+274. H-Index
+
+283. Move Zeroes
+
+295. Find Median from Data Stream
+
+300. Longest Increasing Subsequence
+
+394. Decode String
+
+435. Non-overlapping Intervals
+
+443. String Compression
+
+460. LFU Cache
+
+493. Reverse Pairs
+
+560. Subarray Sum Equals K
+
+564. Find the Closest Palindrome
+
+875. Koko Eating Bananas
+
+1021. Remove Outermost Parentheses
+
+1514. Path with Maximum Probability
+
+1466. Reorder Routes to Make All Paths Lead to the City Zero
+
+1581. Customer Who Visited but Did Not Make Any Transactions
+
+1932. Merge BSTs to Create Single BST
+
+1945. Sum of Digits of String After Convert
+
+2502. Design Memory Allocator
+
+2667. Create Hello World Function
+
+2704. To Be Or Not To Be
+
+3169. Count Days Without Meetings
+
+3259. Maximum Energy Boost From Two Drinks
