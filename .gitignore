@@ -1,1 +1,9 @@
+# Ignore directories
+.vscode/
+C++
+LinkedList
+Python
+SLL
 
+# Ignore specific files
+FINAL450.xlsx
